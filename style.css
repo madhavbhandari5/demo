@@ -1,0 +1,10 @@
+.nav{
+    font-size: 20px;
+   
+}
+.nav a{
+    margin-top: 10px;
+    padding-inline-end: 10px;
+    padding-inline-start: 5px;
+
+}
